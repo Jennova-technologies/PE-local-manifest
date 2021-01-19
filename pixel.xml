@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Jennova-technologies/android_device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="PE-10" />
+  <project name="Jennova-technologies/android_device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="PE-11" />
+  <project name="Jennova-technologies/android_device_xiaomi_trinket-common" path="device/xiaomi/trinket-common" remote="github" revision="PE-11" />
+  <project name="Jennova-technologies/android_kernel_xiaomi_ginkgo-1" path="kernel/xiaomi/ginkgo" remote="github" revision="PE-11" />
+  <project name="Jennova-technologies/android_vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="PE-11" />
+  <project name="Jennova-technologies/android_vendor_xiaomi_trinket-common" path="vendor/xiaomi/trinket-common" remote="github" revision="PE-11" />
+  <project name="ThankYouMario/proprietary_vendor_qcom_sdclang" path="prebuilts/clang/host/linux-x86/clang-sdllvm" remote="github" revision="ruby" />
+  <project name="kubersharma001/android_packages_apps_GcamGOPrebuilt" path="packages/apps/GcamGOPrebuilt" remote="github" revision="master" />
 </manifest>

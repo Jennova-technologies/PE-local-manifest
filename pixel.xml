@@ -2,10 +2,12 @@
 <manifest>
   <remove-project name="vendor_qcom_opensource_power" />
   <remove-project name="hardware_qcom-caf_sm8150_display" />
+  <remove-project name="frameworks_av" />
   <project name="Jennova-technologies/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="PE-11" />
   <project name="Jennova-technologies/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="PE-11" />
   <project name="Jennova-technologies/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="PE-11" />
   <project name="Jennova-technologies/hardware_qcom-caf_sm8150_display" path="hardware/qcom-caf/sm8150/display" remote="github" revision="eleven" />
+  <project name="Jennova-technologies/frameworks_av" path="frameworks/av" remote="github" revision="eleven" />
   <project name="ArrowOS-Devices/android_vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="arrow-11.0-a3" />
   <project name="Jennova-technologies/vendor_qcom_opensource_power" path="vendor/qcom/opensource/power" remote="github" revision="eleven" />
   <project name="ThankYouMario/proprietary_vendor_qcom_sdclang" path="prebuilts/clang/host/linux-x86/clang-sdllvm" remote="github" revision="ruby" />
